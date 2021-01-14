@@ -46,7 +46,7 @@
                 </div>
 
                 <h1>
-                    Bienvenidos
+                    Bienvenidos a todos 
                 </h1>
         </div>
     </body>
